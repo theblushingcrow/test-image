@@ -1,5 +1,4 @@
-![Akita](https://s8.postimg.cc/d4m3fc9tx/image.png)
-> *State Management Tailored-Made for JS Applications*
+![Akita](/v4.png)
+> *testing the image!*
 
-test
 <hr />
